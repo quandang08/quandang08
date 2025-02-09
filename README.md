@@ -64,6 +64,3 @@ I'm continuously learning and working on new projects to expand my skill set and
 
 ⭐ **Fun Fact:** Coding is my superpower! 🚀  
 
----
-
-This layout is cleaner and easier to read with proper sections and headers. Let me know if you'd like any adjustments! 💪
