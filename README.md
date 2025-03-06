@@ -67,7 +67,7 @@ A core service in a microservices-based web platform connecting learners with ex
 ✔️ Integrated JWT authentication and error handling mechanisms.  
 ✔️ Ensured seamless communication with other services via RESTful APIs.  
 
-🔗 **[View Repository](https://github.com/quandang/mentor-spot-system)**  
+🔗 **[View Repository](https://github.com/mentor-spot-system/profile.git)**  
 
 ---
 
