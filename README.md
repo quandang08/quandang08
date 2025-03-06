@@ -1,66 +1,85 @@
-# 👋 Hi there, I’m Quan Dang!  
+<h1 align="center">🚀 Quan Dang | Fresher Java Backend Developer</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F7B93E&center=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Backend+Developer;Java+%7C+Spring+Boot+%7C+Microservices+%7C+SQL">
+</p>
 
 ---
 
-💻 **About Me**  
-
-- 🔭 I’m passionate about technology and problem-solving.  
-- 🌱 Currently, I’m diving deeper into **Java** and building projects to sharpen my skills.  
-- 🚀 My goal: Master **Spring Boot** and develop scalable applications.  
-- ⚡ Fun fact: I enjoy exploring new tech stacks and gaming in my free time.  
-
----
-
-📚 **Skills & Technologies**  
-
-- **Languages:** Java, JavaScript, PHP  
-- **Frameworks:** Spring Boot, Bootstrap 5  
-- **Databases:** MySQL  
-- **Tools:** Git, IntelliJ IDEA, VS Code  
+## 👋 About Me
+- 🔭 Passionate **Java Backend Developer** who loves problem-solving and building scalable applications.  
+- 🌱 Currently exploring **Spring Boot, Microservices, and Cloud Technologies**.  
+- 🎯 Goal: Master **high-performance backend development**.  
+- ⚡ Fun fact: Coding is my superpower! 🚀  
 
 ---
 
-🌟 **My Projects**  
+## 🛠️ **Skills & Technologies**
+### 🔹 **Programming Languages**  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🔗 **Social Media Website**  
-A full-stack project built to connect people and share content.  
+### 🔹 **Frameworks & Libraries**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Features:**  
-- User authentication, profile management, and real-time messaging.  
-- Post creation, likes, and comments functionality.  
+### 🔹 **Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tech Stack:**  
-- **Frontend:** React, Tailwind CSS for responsive UI  
-- **Backend:** Java, Spring Boot for RESTful APIs and business logic  
-- **Database:** MySQL for data storage  
-- **Model:** Built following Microservices architecture  
-- **Other Tools:** Docker for containerization, Git for version control  
+### 🔹 **Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+---
+
+## 🌟 **Projects**
+### 🏛 **Social Media Website**  
+A full-stack project designed to connect people and enable content sharing.  
+
+**🚀 Features:**  
+✅ User authentication, profile management, and real-time messaging.  
+✅ Post creation, likes, and comments functionality.  
+
+**🛠️ Tech Stack:**  
+- **Frontend:** React, Tailwind CSS  
+- **Backend:** Java, Spring Boot (RESTful APIs)  
+- **Database:** MySQL  
+- **Architecture:** Microservices  
+- **Tools:** Docker, Git  
+
+🔗 **[Frontend Repository](https://github.com/quandang08/social-media-front-end)**  
+🔗 **[Backend Repository](https://github.com/quandang08/social-media-back-end)**  
 
 ---
 
 ### 🔧 **Profile Service (Mentor Spot System)**  
-A key component in a microservices-based web application connecting learners with expert mentors in programming languages.  
+A core service in a microservices-based web platform connecting learners with expert mentors.  
 
-**Contributions:**  
-- Developed APIs for user profile creation, updates, and profile picture management.  
-- Ensured seamless communication with services like Identity and Notify using RESTful APIs.  
-- Integrated secure JWT-based authentication and implemented error handling mechanisms.  
-- Enhanced profile-related data validation and notifications to ensure a smooth user experience.  
-- Collaborated with cross-functional teams to align Profile service functions with the overall platform architecture.  
+**🔹 Contributions:**  
+✔️ Developed APIs for user profile creation, updates, and profile picture management.  
+✔️ Integrated JWT authentication and error handling mechanisms.  
+✔️ Ensured seamless communication with other services via RESTful APIs.  
 
----
-
-⚙️ **More to Come!**  
-I'm continuously learning and working on new projects to expand my skill set and bring fresh ideas to life. Stay tuned for updates! 🚀  
+🔗 **[View Repository](https://github.com/quandang/mentor-spot-system)**  
 
 ---
 
-📫 **Connect With Me**  
-
-- **Email:** quanhs0971@gmail.com  
-- **LinkedIn:** [Quan Dang](https://linkedin.com/in/quandang08)  
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quandang08&theme=tokyonight">
+</p>
 
 ---
 
-⭐ **Fun Fact:** Coding is my superpower! 🚀  
+## 📫 **Connect With Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/quandang08)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quanhs0971@gmail.com)
 
+---
