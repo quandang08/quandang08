@@ -57,8 +57,8 @@ A full-stack project designed to connect people and enable content sharing.
 - **Frontend:** React, Tailwind CSS  
 - **Backend:** Java, Spring Boot (RESTful APIs)  
 - **Database:** MySQL  
-- **Architecture:** Microservices  
-- **Tools:** Docker, Git  
+- **Architecture:** Layered Architecture  
+- **Tools:** Git , Postman
 
 🔗 **[Frontend Repository](https://github.com/quandang08/social-media-front-end)**  
 🔗 **[Backend Repository](https://github.com/quandang08/social-media-back-end)**  
