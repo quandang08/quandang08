@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Quan Dang | Fresher Java Backend Developer</h1>
+<h1 align="center">🚀 Quan Dang </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F7B93E&center=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Backend+Developer;Java+%7C+Spring+Boot+%7C+Microservices+%7C+SQL">
@@ -24,15 +24,16 @@
 
 ### 🔹 **Frameworks & Libraries**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-009688?style=for-the-badge&logo=cloud&logoColor=white)
 ![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
 
-
 ### 🔹 **Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🔹 **Tools & Platforms**  
@@ -42,38 +43,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
----
-
-## 🌟 **Projects**
-### 🏛 **Social Media Website**  
-A full-stack project designed to connect people and enable content sharing.  
-
-**🚀 Features:**  
-✅ User authentication, profile management, and real-time messaging.  
-✅ Post creation, likes, and comments functionality.  
-
-**🛠️ Tech Stack:**  
-- **Frontend:** React, Tailwind CSS  
-- **Backend:** Java, Spring Boot (RESTful APIs)  
-- **Database:** MySQL  
-- **Architecture:** Layered Architecture  
-- **Tools:** Git , Postman
-
-🔗 **[Frontend Repository](https://github.com/quandang08/social-media-front-end)**  
-🔗 **[Backend Repository](https://github.com/quandang08/social-media-back-end)**  
-
----
-
-### 🔧 **Profile Service (Mentor Spot System)**  
-A core service in a microservices-based web platform connecting learners with expert mentors.  
-
-**🔹 Contributions:**  
-✔️ Developed APIs for user profile creation, updates, and profile picture management.  
-✔️ Integrated JWT authentication and error handling mechanisms.  
-✔️ Ensured seamless communication with other services via RESTful APIs.  
-
-🔗 **[View Repository](https://github.com/mentor-spot-system/profile.git)**  
 
 ---
 
