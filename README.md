@@ -1,4 +1,4 @@
-<h1 align="center">🚀 AMU </h1>
+<h1 align="center">🚀 I'm Amu </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F7B93E&center=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Backend+Developer;Java+%7C+Spring+Boot+%7C+Microservices+%7C+SQL">
